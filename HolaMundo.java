@@ -5,4 +5,4 @@ public class HolaMundo {
     }
 
 }
-/* si usamos el atajo "sout" podemos imprimir cualquier texto */
+/* si usamos el atajo "sout" podemos imprimir cualquier variable */
